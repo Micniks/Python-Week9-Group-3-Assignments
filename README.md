@@ -6,7 +6,7 @@
 - Marcus
 - Michael
 
-Vi benytter datasættet: [Italian Surnames]()
+Vi benytter datasættet: [Italian Surnames](https://raw.githubusercontent.com/Micniks/Python-Week9-Group-3-Assignments/main/italian_surnames.txt)
 
 Dette github repository er tilrettet opgavestillinger, så udspecifieret her: [Uge7 Opgave](https://docs.google.com/document/d/1ojSiBWwLo4-Rc7763vx6aVEYdNluATOMja9qqk4dodU/edit#) 
 
