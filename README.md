@@ -32,8 +32,7 @@ Dette github repository er tilrettet opgavestillinger, så udspecifieret her: [U
 3. The method should return a list of all surnames that have ***our_rival*** as rivals as well, excluding all surnames that are rivals to ***our_family***.
 4. Make a method ***predict_war***, that should use the ***defeat_rival*** method for two families, and return the size for both families, and state which family has the bigger alliance, or if they are at a stalemate.
 
-![](https://i.pinimg.com/originals/e0/cc/1d/e0cc1dce1fb78bbe2e18e59a8fb2b441.jpg)
-
+<img src="https://i.pinimg.com/originals/e0/cc/1d/e0cc1dce1fb78bbe2e18e59a8fb2b441.jpg" alt="Italian Mafia" style="max-width: 250px">
 
 
 ### Assignment 3: Pay the dept
@@ -41,4 +40,4 @@ Dette github repository er tilrettet opgavestillinger, så udspecifieret her: [U
 2. Make a method ***pay_dept*** that takes a mafia_graph, and checks the *balance* for each surname, if all depts where to be payed.
 3. Make a method ***make_business_empire***, that uses the ***pay_dept*** method to find out the smallest list of richest surnames, that would together control over 50% of all the wealth.
 
-![](https://www.nationalcrimesyndicate.com/wp-content/uploads/2020/01/winnings-777x437.jpg)
+<img src="https://www.nationalcrimesyndicate.com/wp-content/uploads/2020/01/winnings-777x437.jpg" alt="Italian Mafia" style="max-width: 250px">
