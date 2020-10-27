@@ -13,7 +13,7 @@ Dette github repository er tilrettet opgavestillinger, så udspecifieret her: [U
 
 # The Mafia Graph
 
-<img src="https://media.thenationaldigest.com/wp-content/uploads/2019/12/02113803/Italian-Mafia-400x400-1.jpg" alt="Italian Mafia" style="max-width: 250px">
+<img src="https://media.thenationaldigest.com/wp-content/uploads/2019/12/02113803/Italian-Mafia-400x400-1.jpg" alt="Italian Mafia" width="500px">
 
 ### Assignment 1: Identify the Families
 *This assignment is meant to make a setup for the two others below, and needs to be completed before the assignement 2 & 3*
@@ -32,7 +32,7 @@ Dette github repository er tilrettet opgavestillinger, så udspecifieret her: [U
 3. The method should return a list of all surnames that have ***our_rival*** as rivals as well, excluding all surnames that are rivals to ***our_family***.
 4. Make a method ***predict_war***, that should use the ***defeat_rival*** method for two families, and return the size for both families, and state which family has the bigger alliance, or if they are at a stalemate.
 
-<img src="https://i.pinimg.com/originals/e0/cc/1d/e0cc1dce1fb78bbe2e18e59a8fb2b441.jpg" alt="Italian Mafia" style="max-width: 50px">
+<img src="https://i.pinimg.com/originals/e0/cc/1d/e0cc1dce1fb78bbe2e18e59a8fb2b441.jpg" alt="Italian Mafia" width="500px">
 
 
 ### Assignment 3: Pay the dept
