@@ -22,9 +22,13 @@ Dette github repository er tilrettet opgavestillinger, så udspecifieret her: [U
 3. ***make_enemies*** will connect each surname with a list of 5 other randomly selected surnames. These will be considered rival mafia families, like this:
 
 `{
+
 'Tony' : ['Giovanni', 'Rizzi', 'Caruso', 'Gallo', 'Fontana'],
+
 'Giovanni' : ['Tony', 'Rizzi', 'Ferrari', 'Conte', 'Serra'],
+
 'Rizzi' : ['Giovanni', 'Tony', 'Martini', 'Ferri', 'Longo'],
+
 }`
 
 4. ***owes_money*** will connect each surname with a dict of 5 other randomly selected surnames as keys, and a random amount between 10.000 and 100.000 as values. These will be considered what the family owes other families, like this:
