@@ -20,8 +20,10 @@ Dette github repository er tilrettet opgavestillinger, så udspecifieret her: [U
 1. Read in the surnames from the file ***[italian_surnames.txt](https://raw.githubusercontent.com/Micniks/Python-Week9-Group-3-Assignments/main/italian_surnames.txt)*** into a list.
 2. Make two support method ***make_enemies*** & ***owes_money***, that should take a list of surnames (from Assignment 1.1), and return a mafia_graph where surnames have been randomly connected to each other as following:
 3. ***make_enemies*** will connect each surname with a list of 5 other randomly selected surnames. These will be considered rival mafia families, like this:
+
 `{'Tony' : ['Giovanni', 'Rizzi']}`
 4. ***owes_money*** will connect each surname with a dict of 5 other randomly selected surnames as keys, and a random amount between 10.000 and 100.000 as values. These will be considered what the family owes other families, like this:
+
 `{'Tony' : {'Giovanni' : 10000, 'Rizzi': 20000}}`
 
 ## Choose between Assignement 2 and 3:
