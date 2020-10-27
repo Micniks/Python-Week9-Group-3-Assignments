@@ -13,8 +13,7 @@ Dette github repository er tilrettet opgavestillinger, så udspecifieret her: [U
 
 # The Mafia Graph
 
-![](https://media.thenationaldigest.com/wp-content/uploads/2019/12/02113803/Italian-Mafia-400x400-1.jpg)
-<img src="https://media.thenationaldigest.com/wp-content/uploads/2019/12/02113803/Italian-Mafia-400x400-1.jpg" alt="Italian Mafia">
+<img src="https://media.thenationaldigest.com/wp-content/uploads/2019/12/02113803/Italian-Mafia-400x400-1.jpg" alt="Italian Mafia" style="max-width: 250px">
 
 ### Assignment 1: Identify the Families
 *This assignment is meant to make a setup for the two others below, and needs to be completed before the assignement 2 & 3*
