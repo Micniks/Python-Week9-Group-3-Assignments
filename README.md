@@ -32,7 +32,7 @@ Dette github repository er tilrettet opgavestillinger, så udspecifieret her: [U
 3. The method should return a list of all surnames that have ***our_rival*** as rivals as well, excluding all surnames that are rivals to ***our_family***.
 4. Make a method ***predict_war***, that should use the ***defeat_rival*** method for two families, and return the size for both families, and state which family has the bigger alliance, or if they are at a stalemate.
 
-<img src="https://i.pinimg.com/originals/e0/cc/1d/e0cc1dce1fb78bbe2e18e59a8fb2b441.jpg" alt="Italian Mafia" style="max-width: 250px">
+<img src="https://i.pinimg.com/originals/e0/cc/1d/e0cc1dce1fb78bbe2e18e59a8fb2b441.jpg" alt="Italian Mafia" style="max-width: 50px">
 
 
 ### Assignment 3: Pay the dept
