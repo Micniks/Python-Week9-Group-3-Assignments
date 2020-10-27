@@ -40,4 +40,4 @@ Dette github repository er tilrettet opgavestillinger, så udspecifieret her: [U
 2. Make a method ***pay_dept*** that takes a mafia_graph, and checks the *balance* for each surname, if all depts where to be payed.
 3. Make a method ***make_business_empire***, that uses the ***pay_dept*** method to find out the smallest list of richest surnames, that would together control over 50% of all the wealth.
 
-<img src="https://www.nationalcrimesyndicate.com/wp-content/uploads/2020/01/winnings-777x437.jpg" alt="Italian Mafia" width="100px">
+<img src="https://www.nationalcrimesyndicate.com/wp-content/uploads/2020/01/winnings-777x437.jpg" alt="Italian Mafia" width="500px">
